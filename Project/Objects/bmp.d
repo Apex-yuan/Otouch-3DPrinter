@@ -1,0 +1,44 @@
+.\objects\bmp.o: ..\SOFTWARE\PICTURE\bmp.c
+.\objects\bmp.o: ..\SOFTWARE\PICTURE\picdecode.h
+.\objects\bmp.o: ..\SYSTEM\sys\sys.h
+.\objects\bmp.o: ..\CMSIS\stm32f10x.h
+.\objects\bmp.o: ..\CMSIS\core_cm3.h
+.\objects\bmp.o: D:\Program Files\Keil_v5_MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\bmp.o: ..\CMSIS\system_stm32f10x.h
+.\objects\bmp.o: ..\USER\stm32f10x_conf.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_adc.h
+.\objects\bmp.o: ..\CMSIS\stm32f10x.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_bkp.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_can.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_cec.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_crc.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_dac.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_dbgmcu.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_dma.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_exti.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_flash.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_fsmc.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_gpio.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_i2c.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_iwdg.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_pwr.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_rcc.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_rtc.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_sdio.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_spi.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_tim.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_usart.h
+.\objects\bmp.o: ..\FWLIB\inc\stm32f10x_wwdg.h
+.\objects\bmp.o: ..\FWLIB\inc\misc.h
+.\objects\bmp.o: ..\HARDWARE\lcd\lcd.h
+.\objects\bmp.o: D:\Program Files\Keil_v5_MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\bmp.o: ..\SOFTWARE\MALLOC\malloc.h
+.\objects\bmp.o: ..\SOFTWARE\FATFS\src\ff.h
+.\objects\bmp.o: ..\SOFTWARE\FATFS\src\integer.h
+.\objects\bmp.o: ..\SOFTWARE\FATFS\src\ffconf.h
+.\objects\bmp.o: ..\SOFTWARE\FATFS\exfuns\exfuns.h
+.\objects\bmp.o: ..\SOFTWARE\PICTURE\bmp.h
+.\objects\bmp.o: ..\SOFTWARE\PICTURE\jpeg.h
+.\objects\bmp.o: ..\SOFTWARE\PICTURE\integer.h
+.\objects\bmp.o: ..\SOFTWARE\PICTURE\gif.h
+.\objects\bmp.o: D:\Program Files\Keil_v5_MDK\ARM\ARMCC\Bin\..\include\string.h

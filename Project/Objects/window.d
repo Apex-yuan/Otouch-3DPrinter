@@ -1,0 +1,53 @@
+.\objects\window.o: ..\SOFTWARE\GUI\window.c
+.\objects\window.o: ..\SOFTWARE\GUI\window.h
+.\objects\window.o: ..\SOFTWARE\GUI\gui.h
+.\objects\window.o: ..\SYSTEM\sys\sys.h
+.\objects\window.o: ..\CMSIS\stm32f10x.h
+.\objects\window.o: ..\CMSIS\core_cm3.h
+.\objects\window.o: D:\Program Files\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\window.o: ..\CMSIS\system_stm32f10x.h
+.\objects\window.o: ..\USER\stm32f10x_conf.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_adc.h
+.\objects\window.o: ..\CMSIS\stm32f10x.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_bkp.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_can.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_cec.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_crc.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_dac.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_dbgmcu.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_dma.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_exti.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_flash.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_fsmc.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_gpio.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_i2c.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_iwdg.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_pwr.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_rcc.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_rtc.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_sdio.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_spi.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_tim.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_usart.h
+.\objects\window.o: ..\FWLIB\inc\stm32f10x_wwdg.h
+.\objects\window.o: ..\FWLIB\inc\misc.h
+.\objects\window.o: ..\SOFTWARE\MALLOC\malloc.h
+.\objects\window.o: ..\HARDWARE\lcd\lcd.h
+.\objects\window.o: D:\Program Files\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\window.o: ..\SYSTEM\usart\usart.h
+.\objects\window.o: D:\Program Files\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\window.o: ..\SYSTEM\delay\delay.h
+.\objects\window.o: D:\Program Files\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\string.h
+.\objects\window.o: ..\SYSTEM\timer\timer.h
+.\objects\window.o: ..\SOFTWARE\GUI\button.h
+.\objects\window.o: ..\SOFTWARE\GUI\button.h
+.\objects\window.o: ..\SOFTWARE\PICTURE\picdecode.h
+.\objects\window.o: ..\SOFTWARE\FATFS\src\ff.h
+.\objects\window.o: ..\SOFTWARE\FATFS\src\integer.h
+.\objects\window.o: ..\SOFTWARE\FATFS\src\ffconf.h
+.\objects\window.o: ..\SOFTWARE\FATFS\exfuns\exfuns.h
+.\objects\window.o: ..\SOFTWARE\PICTURE\bmp.h
+.\objects\window.o: ..\SOFTWARE\PICTURE\jpeg.h
+.\objects\window.o: ..\SOFTWARE\PICTURE\integer.h
+.\objects\window.o: ..\SOFTWARE\PICTURE\gif.h
+.\objects\window.o: ..\HARDWARE\lcd_touch\touch.h

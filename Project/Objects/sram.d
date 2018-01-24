@@ -1,0 +1,34 @@
+.\objects\sram.o: ..\HARDWARE\sram\sram.c
+.\objects\sram.o: ..\HARDWARE\sram\sram.h
+.\objects\sram.o: ..\SYSTEM\sys\sys.h
+.\objects\sram.o: ..\CMSIS\stm32f10x.h
+.\objects\sram.o: ..\CMSIS\core_cm3.h
+.\objects\sram.o: D:\Program Files\Keil_v5_MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sram.o: ..\CMSIS\system_stm32f10x.h
+.\objects\sram.o: ..\USER\stm32f10x_conf.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_adc.h
+.\objects\sram.o: ..\CMSIS\stm32f10x.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_bkp.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_can.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_cec.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_crc.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_dac.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_dbgmcu.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_dma.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_exti.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_flash.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_fsmc.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_gpio.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_i2c.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_iwdg.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_pwr.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_rcc.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_rtc.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_sdio.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_spi.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_tim.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_usart.h
+.\objects\sram.o: ..\FWLIB\inc\stm32f10x_wwdg.h
+.\objects\sram.o: ..\FWLIB\inc\misc.h
+.\objects\sram.o: ..\SYSTEM\usart\usart.h
+.\objects\sram.o: D:\Program Files\Keil_v5_MDK\ARM\ARMCC\Bin\..\include\stdio.h

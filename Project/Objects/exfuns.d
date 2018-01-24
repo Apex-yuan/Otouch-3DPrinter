@@ -1,0 +1,39 @@
+.\objects\exfuns.o: ..\SOFTWARE\FATFS\exfuns\exfuns.c
+.\objects\exfuns.o: D:\Program Files\Keil_v5_MDK\ARM\ARMCC\Bin\..\include\string.h
+.\objects\exfuns.o: ..\SOFTWARE\FATFS\exfuns\exfuns.h
+.\objects\exfuns.o: ..\CMSIS\stm32f10x.h
+.\objects\exfuns.o: ..\CMSIS\core_cm3.h
+.\objects\exfuns.o: D:\Program Files\Keil_v5_MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\exfuns.o: ..\CMSIS\system_stm32f10x.h
+.\objects\exfuns.o: ..\USER\stm32f10x_conf.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_adc.h
+.\objects\exfuns.o: ..\CMSIS\stm32f10x.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_bkp.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_can.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_cec.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_crc.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_dac.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_dbgmcu.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_dma.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_exti.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_flash.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_fsmc.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_gpio.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_i2c.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_iwdg.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_pwr.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_rcc.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_rtc.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_sdio.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_spi.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_tim.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_usart.h
+.\objects\exfuns.o: ..\FWLIB\inc\stm32f10x_wwdg.h
+.\objects\exfuns.o: ..\FWLIB\inc\misc.h
+.\objects\exfuns.o: ..\SOFTWARE\FATFS\src\ff.h
+.\objects\exfuns.o: ..\SOFTWARE\FATFS\src\integer.h
+.\objects\exfuns.o: ..\SOFTWARE\FATFS\src\ffconf.h
+.\objects\exfuns.o: ..\SOFTWARE\FATFS\exfuns\fattester.h
+.\objects\exfuns.o: ..\SOFTWARE\MALLOC\malloc.h
+.\objects\exfuns.o: ..\SYSTEM\usart\usart.h
+.\objects\exfuns.o: D:\Program Files\Keil_v5_MDK\ARM\ARMCC\Bin\..\include\stdio.h
